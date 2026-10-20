@@ -1,0 +1,15 @@
+MOTORCYCLE BRANDS
+=========================
+Brand: Honda
+Model: Click 125i
+Year: 2025
+Price: PHP 81900.00
+-------------------------
+Brand: Yamaha
+Model: Mio Fazzio
+Year: 2025
+Price: PHP 93900.00
+-------------------------
+Encapsulation:
+Original price: PHP 81900.0
+Updated price: PHP 85000.0
